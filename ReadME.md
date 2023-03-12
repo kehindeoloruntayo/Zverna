@@ -16,4 +16,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Newsblog contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
+Newsblog contains pieces of source code that is under MIT licence. This notice is included here to comply with the distribution terms.
