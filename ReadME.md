@@ -1,5 +1,5 @@
-# _NEWS BLOG_
-### _News blog is a piece of code used to showcase the knowledge of bootstrap_
+# _Zverna_
+### _Zverna is a piece of code used to showcase the knowledge of bootstrap_
 
 ## Technology used
 * _HTML_
@@ -16,4 +16,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Newsblog contains pieces of source code that is under MIT licence. This notice is included here to comply with the distribution terms.
+Zverna contains pieces of source code that is under MIT licence. This notice is included here to comply with the distribution terms.
